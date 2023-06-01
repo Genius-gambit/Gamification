@@ -2,7 +2,7 @@
 
 ## Notes
 
-#### Design Thinking
+#### Design Thinking:
 1. Objectives:
     1. Purposive
     2. Human Centered
@@ -31,5 +31,20 @@
               1. DAU/MAU (Daily/Monthly Average Users)
               2. Virality
               3. Volume of Activity.
-    3. Describe your players:
-          
+    3. Devise activity loops:
+          1. Engagement Loops
+              1. Motivation -> Action -> Feedback
+          2. Progression Loops
+
+#### Design Choices:
+
+| S.No | Doing                                                      |            Feeling            |
+| :----: | :----------------------------------------------------------- | :----------------------------: |
+|   1   | Marketing and Economics. |  Game design and cognitive psychology.   |
+|   2   | Incentives. |  Experiences.   |
+|   3   | Satisying needs. |  Fun.   |
+|   4   | Game elements(inductive). |  Game thinking (deductive).   |
+|   5   | Status. |  Meaning.   |
+|   6   | PBLs. |  Puzzles.   |
+|   7   | Rewards. |  Progression.   |
+|   8   | Making users do things. |  Making Players awesome.   |
