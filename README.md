@@ -48,3 +48,20 @@
 |   6   | PBLs. |  Puzzles.   |
 |   7   | Rewards. |  Progression.   |
 |   8   | Making users do things. |  Making Players awesome.   |
+
+#### Is Gamification Right for Me:
+1. Motivation:
+    Where would you derive value from encouraging behavior?
+2. Meaningful Choices:
+    Are your target activities sufficiently interesting?
+3. Structure:
+    Can the desired behaviors be modeled through algorithms?
+4. Potential Conflicts:
+    Can the game avoid tension with other motivational structures?
+    
+    #### Motivation:
+    1. Emotional connections, unique skills, creativity, or teamwork.
+    2. Or, to make boring tasks interesting.
+    #### Structure:
+    1. Must be able to encode in rules/algorithms
+    2. Eg., points for Twitter sharing vs product resgistration.
